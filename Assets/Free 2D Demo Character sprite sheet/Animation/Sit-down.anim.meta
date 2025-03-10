@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b9b350a00363a7848a274b3151126433
+timeCreated: 1547400302
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 137085
+  packageName: 2D Demo Character sprite sheet
+  packageVersion: 1.0
+  assetPath: Assets/Free 2D Demo Character sprite sheet/Animation/Sit-down.anim
+  uploadId: 287713

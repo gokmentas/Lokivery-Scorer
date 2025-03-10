@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 92c9617bf08c13449ba788985685da49
+timeCreated: 1547400236
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 137085
+  packageName: 2D Demo Character sprite sheet
+  packageVersion: 1.0
+  assetPath: Assets/Free 2D Demo Character sprite sheet/Animation/Run.anim
+  uploadId: 287713
