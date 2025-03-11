@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Package
   - Customer
+  - Booster
+  - World Objects
   layers:
   - Default
   - TransparentFX
